@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Boudiaf Abderrezak
+## <h1 style="align-items: center;">👋 Hi, I’m Boudiaf Abderrezak</h1>
 
 ## 💫 About me
 
