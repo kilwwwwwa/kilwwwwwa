@@ -1,12 +1,4 @@
-## h1::before {
-    content: "";
-    display: block;
-    margin: 0 auto;
-    width: 0;
-    height: 0;
-    padding-top: 50%;}
-
-<h1>👋 Hi, I’m Boudiaf Abderrezak</h1>
+## <center>👋 Hi, I’m Boudiaf Abderrezak</center>
 
 ## 💫 About me
 
