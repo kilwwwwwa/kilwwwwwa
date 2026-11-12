@@ -2,12 +2,12 @@
 
 ## 💫 About me
 
-I am a first-year computer science master student at HIS University, passionate about exploring the realms of coding, machine learning, and building interactive applications.
+I am a computer science student at HIS University, passionate about exploring the realms of coding, machine learning, and building interactive applications.
 
 ## 🚀 What I'm Up To
 
 - 👨🏻‍💻 Building my portfolio
-- 🧬 Doing an internship at my university
+- 🧬 Looking for an internship
 
 Check out my [Portfolio !](https://github.com/kilwwwwwa?tab=repositories)
 
